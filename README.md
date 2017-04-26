@@ -7,7 +7,7 @@ Introduction
 ------------
 This application is being built with the goal of becoming a front end interface for the Overviewer Application. It currently is not usable, but I hope to have it that way soon!
 
-The ongoing development can be seen at http://minecraft.wiredbyte.com
+The ongoing development can be seen at https://minecraft.wiredbyte.com
 
 If you would like to contribute, please contact me!
 
